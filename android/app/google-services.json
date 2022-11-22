@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952285501198",
+    "project_id": "dialert-bab97",
+    "storage_bucket": "dialert-bab97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952285501198:android:0af6222a13dc7739f6695f",
+        "android_client_info": {
+          "package_name": "com.example.dialert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952285501198-0cog9ua6i538din75aot4ehhib2855qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuPFdfth9OavSfIyBB5SmAmPh24Xcacg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952285501198-0cog9ua6i538din75aot4ehhib2855qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
